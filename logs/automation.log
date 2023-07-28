@@ -9,3 +9,87 @@
 14:15:56.858 [main] ERROR testCase.TC_001_AccountRegistrationTest - test failed
 14:16:01.302 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
 14:16:03.322 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:15:52.108 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:15:52.702 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:15:53.119 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:15:53.122 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:15:53.305 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:15:53.409 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:15:53.536 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:15:59.752 [main] ERROR testCase.TC_001_AccountRegistrationTest - test failed
+15:16:02.628 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:16:03.720 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:16:53.814 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:16:54.091 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:16:54.518 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:16:54.521 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:16:54.726 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:16:54.833 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:16:54.913 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:17:01.095 [main] ERROR testCase.TC_001_AccountRegistrationTest - test failed
+15:17:03.796 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:17:05.210 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:19:57.405 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:19:57.600 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:19:58.010 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:19:58.013 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:19:58.249 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:19:58.405 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:19:58.531 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:20:04.691 [main] ERROR testCase.TC_001_AccountRegistrationTest - test failed
+15:20:07.650 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:20:14.068 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:20:44.462 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:20:44.629 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:20:45.078 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:20:45.083 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:20:45.305 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:20:45.366 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:20:45.435 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:20:51.583 [main] ERROR testCase.TC_001_AccountRegistrationTest - test failed
+15:20:54.345 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:21:00.728 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:25:28.630 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:25:28.910 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:25:29.385 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:25:29.401 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:25:29.693 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:25:29.766 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:25:29.851 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:25:36.032 [main] ERROR testCase.TC_001_AccountRegistrationTest - test failed
+15:25:38.984 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:25:45.438 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:27:26.184 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:27:26.344 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:27:26.710 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:27:26.714 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:27:26.903 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:27:26.967 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:27:27.041 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:27:32.249 [main] INFO  testCase.TC_001_AccountRegistrationTest - Click the button to continue
+15:27:37.317 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+15:27:37.321 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****FinishingTC_001_AccountRegistrationTest****
+15:27:40.081 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:27:46.428 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:28:16.248 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:28:16.477 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:28:16.919 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:28:16.928 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:28:17.085 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:28:17.151 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:28:17.237 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:28:22.473 [main] INFO  testCase.TC_001_AccountRegistrationTest - Click the button to continue
+15:28:27.510 [main] INFO  testCase.TC_001_AccountRegistrationTest - Validating expected message
+15:28:27.510 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****FinishingTC_001_AccountRegistrationTest****
+15:28:30.279 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:28:36.704 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest
+15:30:19.493 [main] INFO  testCase.TC_001_AccountRegistrationTest - ****Starting TC_001_AccountRegistrationTest****
+15:30:19.727 [main] INFO  testCase.TC_001_AccountRegistrationTest - MyAccount
+15:30:20.156 [main] INFO  testCase.TC_001_AccountRegistrationTest - Registration
+15:30:20.159 [main] INFO  testCase.TC_001_AccountRegistrationTest - AccountRegistrationPage
+15:30:20.311 [main] INFO  testCase.TC_001_AccountRegistrationTest - firstname
+15:30:20.385 [main] INFO  testCase.TC_001_AccountRegistrationTest - lastname
+15:30:20.469 [main] INFO  testCase.TC_001_AccountRegistrationTest - Email
+15:30:26.632 [main] ERROR testCase.TC_001_AccountRegistrationTest - test failed
+15:30:29.379 [main] INFO  testCase.TC_002_LoginTest - ***Starting TC_002_LoginTest 
+15:30:35.548 [main] INFO  testCase.TC_002_LoginTest - ***Finished  TC_002_LoginTest

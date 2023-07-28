@@ -21,6 +21,7 @@ public class TC_002_LoginTest extends BaseClass {
     LoginPage lp=new LoginPage(driver);
     lp.setEmail(rb.getString("email"));
     lp.setPassword(rb.getString("password"));
+    Thread.sleep(5000);
     lp.clickLogin();
     MyAccountPage macc=new  MyAccountPage(driver);
     boolean targetpage=macc.isMyAccountPageExists();
